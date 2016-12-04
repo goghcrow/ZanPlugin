@@ -13,13 +13,13 @@ Preference -> Plugins -> Install plugins from disk... -> 选择ZanPlugin.jar -> 
 ## Feature
 
 ### 1. Db::execute("sid参数自动补全");
-![sid自动补全](http://gitlab.qima-inc.com/php-lib/zan-ide-plugin/raw/master/screenshot/completation_db_execute.gif)
+![sid自动补全](https://cdn.rawgit.com/goghcrow/ZanPlugin/master/screenshot/completation_db_execute.gif)
 
 ### 2. Db::execute("sid ctrl+mouse 自动跳转到sql文件定义位置")
-![sql跳转](http://gitlab.qima-inc.com/php-lib/zan-ide-plugin/raw/master/screenshot/reference_sqlmap.gif)
+![sql跳转](https://cdn.rawgit.com/goghcrow/ZanPlugin/master/screenshot/reference_sqlmap.gif)
 
 ### 3. Client::call("参数自动补全");
-![clientcall自动补全](http://gitlab.qima-inc.com/php-lib/zan-ide-plugin/raw/master/screenshot/completation_client_call.gif)
+![clientcall自动补全](https://cdn.rawgit.com/goghcrow/ZanPlugin/master/screenshot/completation_client_call.gif)
 
 ### 4. [Iron] Client::call("内部调用 ctrl+click 跳转到api定以方法");<br>
 
@@ -29,7 +29,7 @@ Preference -> Plugins -> Install plugins from disk... -> 选择ZanPlugin.jar -> 
 2. Api_Client::call("")
 3. $this->call("")
 
-![iron-clientcall内部调用跳转](http://gitlab.qima-inc.com/php-lib/zan-ide-plugin/raw/master/screenshot/iron_client_call_reference.gif)
+![iron-clientcall内部调用跳转](https://cdn.rawgit.com/goghcrow/ZanPlugin/master/screenshot/iron_client_call_reference.gif)
 
 ## TODO
 
